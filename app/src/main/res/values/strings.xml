@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flint</string>
+    <string name="tab_text_1">Handbag</string>
+    <string name="tab_text_2">Footwear</string>
+    <string name="tab_text_3">Dresses</string>
+    <string name="tab_text_4">Jewellery</string>
+    <string name="title_activity_item_details">ItemDetails</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="prod_desc">Medium Nappa Leather top handle Tote with hand-painted python sides and signature mesh pyramid tassels. Interior lined in suede and features a sidezipper pocket, two open pockets for phone and lipstick and a detachable zipper pouch with ID and card pocket. Zipper closure. Gunmetal hardware. leather shoulder strap.</string>
+
+
+</resources>
